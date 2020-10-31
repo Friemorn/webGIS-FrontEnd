@@ -3,10 +3,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Friemorn/webGIS-FrontEnd)
 ![GitHub stars](https://img.shields.io/github/stars/Friemorn/webGIS-FrontEnd?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Friemorn/webGIS-FrontEnd?style=social)
-
-## Introduction
-
-is a simple POS application using vuex vuejs which is used to order cafe menus. This application is expected to make it easier for both sellers and buyers at the cafe
  
  ### Built With
 
